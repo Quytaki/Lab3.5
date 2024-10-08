@@ -1,0 +1,42 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <!-- Màu chủ đạo chính -->
+    <color name="colorPrimary">#6200EE</color>
+
+    <!-- Màu chủ đạo biến thể -->
+    <color name="colorPrimaryVariant">#3700B3</color>
+
+    <!-- Màu trên nền màu chủ đạo -->
+    <color name="colorOnPrimary">#FFFFFF</color>
+
+    <!-- Màu phụ -->
+    <color name="colorSecondary">#03DAC6</color>
+
+    <!-- Màu phụ biến thể -->
+    <color name="colorSecondaryVariant">#018786</color>
+
+    <!-- Màu trên nền màu phụ -->
+    <color name="colorOnSecondary">#000000</color>
+
+    <!-- Màu nền ứng dụng -->
+    <color name="colorBackground">#FFFFFF</color>
+
+    <!-- Màu nền cho các thành phần như card, dialog -->
+    <color name="colorSurface">#FFFFFF</color>
+
+    <!-- Màu cho các lỗi -->
+    <color name="colorError">#B00020</color>
+
+    <!-- Màu cho văn bản trên nền màu nền -->
+    <color name="colorOnBackground">#000000</color>
+
+    <!-- Màu cho văn bản trên nền màu nền các thành phần -->
+    <color name="colorOnSurface">#000000</color>
+
+    <!-- Màu cho văn bản trên màu lỗi -->
+    <color name="colorOnError">#FFFFFF</color>
+
+    <!-- Thêm các màu cần thiết khác -->
+    <color name="colorPrimaryDark">#3700B3</color> <!-- Ví dụ màu chủ đạo biến thể -->
+    <color name="colorAccent">#03DAC6</color> <!-- Màu phụ -->
+</resources>
